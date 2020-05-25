@@ -4,27 +4,27 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: 'Innovate, Collaborate, and have fun facing the COVID new rules !'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Welcome here, you'll find all the news about the hackathon !
+      Projects life, challenge, score status...
     actions:
-      - label: Let's talk
+      - label: Une question ?
         url: /contact
         type: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: Les projets
     subtitle: An optional subtitle of the section
-    projects_number: 6
+    projects_number: 4
     view_all_label: View All
     view_all_url: portfolio/index.html
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
-    col_number: two
+    title: The rules
+    subtitle: To be awesome, here are the game's rules
+    col_number: three
     is_numbered: true
     grid_items:
       - title: Service Title
@@ -46,6 +46,16 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+      - title: Service Title
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla .
+      - title: Service Title
+        content: >-
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
+          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
+          fringilla, fringilla .
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
