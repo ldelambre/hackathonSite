@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 description: Site du hackathon GetLink
 color_scheme: light
-accent_color: pink
+accent_color: blue
 header:
   title: Hackat |---| on
   has_nav: true
@@ -14,7 +14,7 @@ header:
     - label: Home
       url: /
       type: link
-    - label: Portfolio
+    - label: Projets
       url: /portfolio/
       type: link
     - label: Blog
@@ -23,7 +23,7 @@ header:
     - label: Style Guide
       url: /style-guide/
       type: link
-    - label: About
+    - label: A propos
       url: /about/
       type: link
     - label: Contact
