@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Les projets
-    subtitle: An optional subtitle of the section
+    subtitle: Prochainement, cette section regroupera les projets en cours
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio/index.html
@@ -27,57 +27,31 @@ sections:
     col_number: three
     is_numbered: true
     grid_items:
-      - title: Service Title
+      - title: Etat d'esprit
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla .
-      - title: Service Title
+          Bienveillance, convivialité, tolérance, respect, ouverture d'esprit, ouverture, autant de mot pour qualifier l'état d'esprit des participants.
+      - title: Participation Bénévole
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
+          La participation au hackathon est une initiative personnelle, bénévole, non soumise à rémunération. Le partage, le challenge cognitif sont les maîtres mots ! 
+      - title: Planning
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
+          Le Hackathon démarre le 26 mai à 17h, et se termine le 19 Juin à 17h. Les équipe s'auto-organisent et alloue le temps comme elle le souhaite.
+      - title: Une idée, un projet
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service Title
+          Rentre en lice pour le hackathon, les catégories suivantes : Elaboration d'une idée, réalisation d'un prototype ou la modification d'un projet existant. Si votre analyse est bien ficelée vous pouvez ne pas avoir besoin de code à développer.
+      - title: Une compétition bienveillante
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla .
-      - title: Service Title
+          Afin de pimenter cette période nous lançons une compétition à points. Le détail du score est [Link to a post]({% link _posts/2020-05-26-score.md %}) . Des mini-challenge seront lancés les mardi à 17h et terminerons les mardi suivants à la même heure. La clôture du hackathon sera prononcées après délibération du jury quant au projet le plus brillant. Nous espéront compter sur la présence de l'ET comitee.
+      - title: Qui dit compet' dit...
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla .
-  - section_id: testimonials
-    type: section_testimonials
-    title: Testimonials
-    subtitle: An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
+          ... Lots ! Et vous aller être gâtés ! Licence Resharper, visite V.I.PI, montre fitbit, abonnement Programmez...Et le classic T-Shirt !
+          Sans oublié une sortie Pub & Beer à la fin du hackathon/confinement.
+      - title: Propriété intellectuelle
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
+          La paternité des idées revient à l'équipe qui la porte. L'usage dans le contexte GetLink restera autorisée, sans contrepartie. La confidentialité des données GetLink ne doivent pas être divulguée.
+      - title: Données et API GetLink
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Aucune données / code source ne doivent sortir du domaine GetLink.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog

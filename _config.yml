@@ -9,6 +9,7 @@ color_scheme: light
 accent_color: blue
 header:
   title: Hackat |---| on
+  logo_img: images/hack.png
   has_nav: true
   nav_links:
     - label: Home
@@ -30,31 +31,27 @@ header:
       url: /contact/
       type: link
 footer:
-  content: '&copy; Stackbit-Exto. All rights reserved.'
+  content: '&copy; agilead. All rights reserved.'
   links:
     - label: Made with Stackbit.
       url: 'https://www.stackbit.com'
       type: link
       new_window: true
-  has_social: true
+  has_social: false
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
       type: icon
       icon_class: fa-twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
       type: icon
       icon_class: fa-instagram
       new_window: true
     - label: Dribbble
-      url: 'https://dribbble.com/'
       type: icon
       icon_class: fa-dribbble
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
       type: icon
       icon_class: fa-linkedin
       new_window: true
