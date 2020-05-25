@@ -8,7 +8,7 @@ description: Site du hackathon GetLink
 color_scheme: light
 accent_color: pink
 header:
-  title: Exto
+  title: Hackat |---| on
   has_nav: true
   nav_links:
     - label: Home
