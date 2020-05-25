@@ -41,7 +41,7 @@ sections:
           Rentre en lice pour le hackathon, les catégories suivantes : Elaboration d'une idée, réalisation d'un prototype ou la modification d'un projet existant. Si votre analyse est bien ficelée vous pouvez ne pas avoir besoin de code à développer.
       - title: Une compétition bienveillante
         content: >-
-          Afin de pimenter cette période nous lançons une compétition à points. Le détail du score est [Link to a post]({% link _posts/2020-05-26-score.md %}) . Des mini-challenge seront lancés les mardi à 17h et terminerons les mardi suivants à la même heure. La clôture du hackathon sera prononcées après délibération du jury quant au projet le plus brillant. Nous espéront compter sur la présence de l'ET comitee.
+          Afin de pimenter cette période nous lançons une compétition à points. Un post détaille les règles . Des mini-challenge seront lancés les mardi à 17h et terminerons les mardi suivants à la même heure. La clôture du hackathon sera prononcées après délibération du jury quant au projet le plus brillant. Nous espéront compter sur la présence de l'ET comitee.
       - title: Qui dit compet' dit...
         content: >-
           ... Lots ! Et vous aller être gâtés ! Licence Resharper, visite V.I.PI, montre fitbit, abonnement Programmez...Et le classic T-Shirt !
