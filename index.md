@@ -29,29 +29,29 @@ sections:
     grid_items:
       - title: Etat d'esprit
         content: >-
-          Bienveillance, convivialité, tolérance, respect, ouverture d'esprit, ouverture, autant de mot pour qualifier l'état d'esprit des participants.
+          Bienveillance, convivialité, tolérance, respect, ouverture d'esprit, ouverture, autant de mots pour qualifier l'état d'esprit des participants.
       - title: Participation Bénévole
         content: >-
           La participation au hackathon est une initiative personnelle, bénévole, non soumise à rémunération. Le partage, le challenge cognitif sont les maîtres mots ! 
       - title: Planning
         content: >-
-          Le Hackathon démarre le 26 mai à 17h, et se termine le 19 Juin à 17h. Les équipe s'auto-organisent et alloue le temps comme elle le souhaite.
+          Le Hackathon démarre le 26 mai à 17h, et se termine le 19 Juin à 17h. Les équipe s'auto-organisent et allouent le temps comme elles le souhaitent tout en participant aux événements intermédiaires.
       - title: Une idée, un projet
         content: >-
           Rentre en lice pour le hackathon, les catégories suivantes : Elaboration d'une idée, réalisation d'un prototype ou la modification d'un projet existant. Si votre analyse est bien ficelée vous pouvez ne pas avoir besoin de code à développer.
       - title: Une compétition bienveillante
         content: >-
-          Afin de pimenter cette période nous lançons une compétition à points. Un post détaille les règles . Des mini-challenge seront lancés les mardi à 17h et terminerons les mardi suivants à la même heure. La clôture du hackathon sera prononcées après délibération du jury quant au projet le plus brillant. Nous espéront compter sur la présence de l'ET comitee.
+          Afin de pimenter cette période nous lançons une compétition à points. Un post détaille les règles . Des mini-challenges seront lancés les mardis à 17h et terminerons les mardis suivants à la même heure. La clôture du hackathon sera prononcées après délibération du jury afin de déterminer le projet le plus brillant. Nous espérons par ailleur compter sur la présence de l'ET comitee.
       - title: Qui dit compet' dit...
         content: >-
-          ... Lots ! Et vous aller être gâtés ! Licence Resharper, visite V.I.PI, montre fitbit, abonnement Programmez...Et le classic T-Shirt !
-          Sans oublié une sortie Pub & Beer à la fin du hackathon/confinement.
+          ... Lots ! Et vous aller être gâtés ! Licence Resharper, visite V.I.P., bracelets connectés Fitbit, abonnements Programmez...Et le classique T-Shirt !
+          Sans oublier une sortie Pub & Beer à la fin du hackathon/confinement afin de fêter cet événement tous ensemble.
       - title: Propriété intellectuelle
         content: >-
-          La paternité des idées revient à l'équipe qui la porte. L'usage dans le contexte GetLink restera autorisée, sans contrepartie. La confidentialité des données GetLink ne doivent pas être divulguée.
+          La paternité des idées revient à l'équipe qui la porte. L'usage dans le contexte GetLink restera autorisée, sans contrepartie. La confidentialité des données impose que les informations propres à GetLink ne soient pas divulguées.
       - title: Données et API GetLink
         content: >-
-          Aucune données / code source ne doivent sortir du domaine GetLink.
+          Aucune données ou code source ne doivent sortir du domaine GetLink, les autres projets satellites pourront faire l’objet d’une licence choisie par l’équipe.
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
