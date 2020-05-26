@@ -55,6 +55,74 @@ footer:
       type: icon
       icon_class: fa-linkedin
       new_window: true
+# Team names, titles and social links
+people:
+- name: Nicola Booneart
+  pic: nico
+  position: Orga, Support & Arhitect
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Celine Grosjean
+  pic: celinegrosjean
+  position: UX Design
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Romain Yvart
+  pic: romain
+  position: Project Manager
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Valerie Morel
+  pic: val
+  position: Graphiste
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Frederic Riga
+  pic: fred
+  position: Sponsor
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jérémie Hattat
+  pic: jay
+  position: GO
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
 sass:
   indentWidth: 4
   style: nested
