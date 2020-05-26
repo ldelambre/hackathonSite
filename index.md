@@ -29,7 +29,7 @@ sections:
     grid_items:
       - title: Etat d'esprit
         content: >-
-          Bienveillance, convivialité, tolérance, respect, ouverture d'esprit, ouverture, autant de mots pour qualifier l'état d'esprit des participants.
+          Bienveillance, convivialité, tolérance, respect, ouverture d'esprit, autant de mots pour qualifier l'état d'esprit des participants.
       - title: Participation Bénévole
         content: >-
           La participation au hackathon est une initiative personnelle, bénévole, non soumise à rémunération. Le partage, le challenge cognitif sont les maîtres mots ! 
