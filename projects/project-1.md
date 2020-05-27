@@ -2,8 +2,8 @@
 title: ROOM
 subtitle: Des solutions innovantes pour nos espaces
 date: '2020-05-27'
-thumb_image: images/room_thumb.jpg
-image: images/room.jpg
+thumb_image: images/room_thumb.png
+image: images/room.png
 layout: project
 ---
 
