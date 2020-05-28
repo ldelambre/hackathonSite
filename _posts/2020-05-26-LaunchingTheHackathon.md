@@ -41,9 +41,9 @@ Vous n'avez-pu vous participer, il est encore temps de vous associer à une équ
   * Jérémy, Chistophe C, Christophe B, Michael, Sylvain
 
 * Drive, avec Loïc, ou comment garder les activités dans les magasins duty-free sans contact... A noter la réflexion de ma dame (oui madame à moi) que c'est une bonne solution quand au stress du client dans des conditions normales 'ai-je avoir le temps de passer au magasin sans louper mon train'...
- * cette équipe n'est pour le moment pas dotée de développeurs, **[Rejoignez le projet !](mailto:hackthelink@eurotunnel.com)**
+  * cette équipe n'est pour le moment pas dotée de développeurs, **[Rejoignez le projet !](mailto:hackthelink@eurotunnel.com)**
 * "Touch Avoider" : Un outils qui permet, pour chaque interaction sur un écran ou autre qui serait partagé, de prendre le relai sur son téléphone. Par exemple, pour la borne de péage, pour le retrait d'une autorisation de travail, ou encore la machine à café !
- * Nous retrouvons dans cette équipe Anthony, Yannick D.
+  * Nous retrouvons dans cette équipe Anthony, Yannick D.
 
 
 ## Un interview ludique.
