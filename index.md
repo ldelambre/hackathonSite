@@ -16,7 +16,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Les projets
-    subtitle: Prochainement, cette section regroupera les projets en cours
+    subtitle: Voici les projets !
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio/index.html
