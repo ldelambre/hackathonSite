@@ -36,7 +36,7 @@ Après plusieurs minutes, nous avons lancé les pitchs ! Encore bravo à eux pou
 
 Vous n'avez-pu vous participer, il est encore temps de vous associer à une équipe !
  * Dématérialisation, avec Richard comme porteur. De ma compréhension, il s'agit ici de limiter les interaction que nous avons a ce jour, grâce à notre mobile. Dans cette équipe, nous retrouvons :
-  * Virginie, Frederic
+   * Virginie, Frederic
 * ROOM en regroupement avec Nicolas et Adrien, ou comment faciliter la gestion des flux de personnes pour les salles de réunion, la cantine etc.. Dans cette équipe, nous retrouvons :
   * Jérémy, Chistophe C, Christophe B, Michael, Sylvain
 
