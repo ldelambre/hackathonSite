@@ -58,7 +58,7 @@ footer:
 # Team names, titles and social links
 people:
 - name: Nicola Booneart
-  pic: nico
+  pic: nico.jpg
   position: Orga, Support & Arhitect
   social:
     - title: twitter
@@ -69,7 +69,7 @@ people:
       url: #
 
 - name: Celine Grosjean
-  pic: celinegrosjean
+  pic: celinegrosjean.jpg
   position: UX Design
   social:
     - title: twitter
@@ -80,7 +80,7 @@ people:
       url: #
 
 - name: Romain Yvart
-  pic: romain
+  pic: romain.jpg
   position: Project Manager
   social:
     - title: twitter
@@ -91,7 +91,7 @@ people:
       url: #
 
 - name: Valerie Morel
-  pic: val
+  pic: val.jpg
   position: Graphiste
   social:
     - title: twitter
@@ -102,7 +102,7 @@ people:
       url: #
 
 - name: Frederic Riga
-  pic: fred
+  pic: fred.jpg
   position: Sponsor
   social:
     - title: twitter
@@ -113,7 +113,7 @@ people:
       url: #
 
 - name: Jérémie Hattat
-  pic: jay
+  pic: jay.jpg
   position: GO
   social:
     - title: twitter
