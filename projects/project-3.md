@@ -81,10 +81,10 @@ L’idée étant de fournir une application unique regroupant l’ensemble des f
 
 
 [ckl-2]: /images/projects/ckl-2.PNG "Img 2"
-[ckl-3]: /images/projects/ckl-2.PNG "Img 3"
-[ckl-4]: /images/projects/ckl-2.PNG "Img 4"
-[ckl-5]: /images/projects/ckl-2.PNG "Img 5"
-[ckl-6]: /images/projects/ckl-2.PNG "Img 6"
-[ckl-7]: /images/projects/ckl-2.PNG "Img 7"
-[ckl-8]: /images/projects/ckl-2.PNG "Img 8"
-[ckl-9]: /images/projects/ckl-2.PNG "Img 9"
+[ckl-3]: /images/projects/ckl-3.PNG "Img 3"
+[ckl-4]: /images/projects/ckl-4.PNG "Img 4"
+[ckl-5]: /images/projects/ckl-5.PNG "Img 5"
+[ckl-6]: /images/projects/ckl-6.PNG "Img 6"
+[ckl-7]: /images/projects/ckl-7.PNG "Img 7"
+[ckl-8]: /images/projects/ckl-8.PNG "Img 8"
+[ckl-9]: /images/projects/ckl-9.PNG "Img 9"
