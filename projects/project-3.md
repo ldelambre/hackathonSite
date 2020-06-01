@@ -26,22 +26,23 @@ Ce déport n’est en fait que le prolongement du parcours client sur son smartp
 
 Nous avons alors essentiellement trois cas de figure :  
 
- 1 L’ensemble des informations issues de la réservation est cohérent par rapport au passage du client (véhicule, heure de la mission, etc.). Dans ce cas, une fois le pré-check-in validé, lorsque le client arrivera en gare de péage, le système de détection de plaque reconnaît le client comme à aujourd’hui mais en lieu et place d’arrêter celui-ci pour lui demander des informations, la barrière va simplement se lever.  Reste alors à trouver une solution de remplacement du cintre qui lui est attribué où figure la lettre correspondant à la mission. Encore une fois, nous pouvons dématérialiser ce cintre et afficher/envoyer un pdf affichable sur le smartphone contenant la lettre de la mission et un QR Code rassemblant l’ensemble des informations de la réservation. Au même titre que ce que nous avons connu avec les attestations de déplacement lors de l’épisode COVID. 
- 1 Le client souhaite modifier un paramètre par rapport à sa réservation (horaire, véhicule, etc.). Alors dans ce cas, cela s’apparente simplement à une modification de réservation, déjà faisable sur l’application mobile et effectue son pré-check-in dans la foulée. 
- 1 Le système de péage ne reconnait pas l’immatriculation du client. Alors dans ce cas, un écran s’affichera sur la borne du péage, avec deux zones : une identique à aujourd’hui, demandant le numéro de réservation (que l’on pourrait appeler « mode dégradé »), l’autre zone contenant un QRCode pouvant être scanner et ramenant le client sur l’application mobile pour effectuer son check-in. 
+ 1. L’ensemble des informations issues de la réservation est cohérent par rapport au passage du client (véhicule, heure de la mission, etc.). Dans ce cas, une fois le pré-check-in validé, lorsque le client arrivera en gare de péage, le système de détection de plaque reconnaît le client comme à aujourd’hui mais en lieu et place d’arrêter celui-ci pour lui demander des informations, la barrière va simplement se lever.  Reste alors à trouver une solution de remplacement du cintre qui lui est attribué où figure la lettre correspondant à la mission. Encore une fois, nous pouvons dématérialiser ce cintre et afficher/envoyer un pdf affichable sur le smartphone contenant la lettre de la mission et un QR Code rassemblant l’ensemble des informations de la réservation. Au même titre que ce que nous avons connu avec les attestations de déplacement lors de l’épisode COVID. 
+ 1. Le client souhaite modifier un paramètre par rapport à sa réservation (horaire, véhicule, etc.). Alors dans ce cas, cela s’apparente simplement à une modification de réservation, déjà faisable sur l’application mobile et effectue son pré-check-in dans la foulée. 
+ 1. Le système de péage ne reconnait pas l’immatriculation du client. Alors dans ce cas, un écran s’affichera sur la borne du péage, avec deux zones : une identique à aujourd’hui, demandant le numéro de réservation (que l’on pourrait appeler « mode dégradé »), l’autre zone contenant un QRCode pouvant être scanner et ramenant le client sur l’application mobile pour effectuer son check-in. 
 
-![screen 1][ckl-4]![screen 2][ckl-5]
+![screen 1][ckl-4]
 
 ### Pour quels avantages ? 
 
  + Des temps d’attente avant péage nettement amélioré puisque la majorité des transactions en voie pourraient passer d’une minute à une durée voisine de zéro et donc une fluidité améliorée. 
- ![file camion][ckl-6]
+ ![file camion][ckl-5]
+
  + Une satisfaction pour nos clients. 
  + Plus de contact physique avec les dalles tactiles des voies, en lien avec l’épisode **COVID**. Contribuant ainsi à rassurer nos clients et pouvant être marketé pour nous différencier de nos concurrents. 
- ![chauffeur touch screen][ckl-7]
- ![voiture arrière check-in][ckl-8]
- + Moins de consommation de carburant, moins d’émission de particules fines. 
+  ![screen 2][ckl-6]
 
+ + Moins de consommation de carburant, moins d’émission de particules fines. 
+ ![chauffeur touch screen][ckl-7]
 ### Pic de pollution : il faut changer d'air ! 
 
 Sur ce point, nous pouvons faire un calcul rapide : 
